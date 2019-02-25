@@ -1,4 +1,4 @@
-# ai_pattern_search
+# AI Pattern Search
 AI Pattern Search
 
 Setup Steps
