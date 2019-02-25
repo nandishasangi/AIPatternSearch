@@ -1,5 +1,4 @@
 var config = require('config');
-var rp = require('request-promise');
 const got = require('got');
 
 class SearchBiz {
